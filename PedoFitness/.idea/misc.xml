@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/drawable/circular_progress_bar.xml" value="0.144" />
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/drawable/circular_shape.xml" value="0.144" />
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/drawable/custom_progress.xml" value="0.1" />
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/drawable/ic_launcher_background.xml" value="0.192" />
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/drawable/round_progress.xml" value="0.1" />
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/drawable/roundprogress.xml" value="0.2555" />
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/font/dancing_script.xml" value="0.17685185185185184" />
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/font/dancing_script_regular.xml" value="0.17685185185185184" />
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/font/myfont.xml" value="0.17685185185185184" />
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/layout/activity_main.xml" value="0.3346354166666667" />
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/layout/fragment_home3.xml" value="0.264" />
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/layout/fragment_profile.xml" value="0.22826086956521738" />
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/layout/myabout.xml" value="0.1" />
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/layout/mygoal.xml" value="0.1" />
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/layout/myhome.xml" value="0.1" />
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/layout/myprofile.xml" value="0.1" />
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/layout/myreport.xml" value="0.1" />
+        <entry key="..\:/MyAndroidStudioPROJECTS/PedoFitness-App/PedoFitness/app/src/main/res/menu/main_menu.xml" value="0.264" />
+        <entry key="..\:/Users/preri/AndroidStudioProjects/PedoFitness-App/PedoFitness/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.188" />
+        <entry key="..\:/Users/preri/AndroidStudioProjects/PedoFitness-App/PedoFitness/app/src/main/res/drawable/ic_baseline_directions_run_24.xml" value="0.188" />
+        <entry key="..\:/Users/preri/AndroidStudioProjects/PedoFitness-App/PedoFitness/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.188" />
+        <entry key="..\:/Users/preri/AndroidStudioProjects/PedoFitness-App/PedoFitness/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.188" />
+        <entry key="..\:/Users/preri/AndroidStudioProjects/PedoFitness-App/PedoFitness/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/preri/AndroidStudioProjects/PedoFitness-App/PedoFitness/app/src/main/res/layout/fragment_blank.xml" value="0.1796875" />
+        <entry key="..\:/Users/preri/AndroidStudioProjects/PedoFitness-App/PedoFitness/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/preri/AndroidStudioProjects/PedoFitness-App/PedoFitness/app/src/main/res/layout/fragment_home2.xml" value="0.1796875" />
+        <entry key="..\:/Users/preri/AndroidStudioProjects/PedoFitness-App/PedoFitness/app/src/main/res/layout/fragment_home3.xml" value="0.1796875" />
+        <entry key="..\:/Users/preri/AndroidStudioProjects/PedoFitness-App/PedoFitness/app/src/main/res/layout/fragment_profile.xml" value="0.1796875" />
+        <entry key="..\:/Users/preri/AndroidStudioProjects/PedoFitness-App/PedoFitness/app/src/main/res/layout/fragment_report.xml" value="0.1796875" />
+        <entry key="..\:/Users/preri/AndroidStudioProjects/PedoFitness-App/PedoFitness/app/src/main/res/layout/myabout.xml" value="0.1766304347826087" />
+        <entry key="..\:/Users/preri/AndroidStudioProjects/PedoFitness-App/PedoFitness/app/src/main/res/layout/myhome.xml" value="0.1796875" />
+        <entry key="..\:/Users/preri/AndroidStudioProjects/PedoFitness-App/PedoFitness/app/src/main/res/menu/bottom_menu.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/preri/AndroidStudioProjects/PedoFitness-App/PedoFitness/app/src/main/res/menu/main_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/rahul/PedoFitness-App/PedoFitness/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/rahul/PedoFitness-App/PedoFitness/app/src/main/res/layout/fragment_home3.xml" value="0.1" />
+        <entry key="..\:/Users/rahul/PedoFitness-App/PedoFitness/app/src/main/res/layout/fragment_report.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/rahul/PedoFitness-App/PedoFitness/app/src/main/res/layout/mygoal.xml" value="0.25" />
+        <entry key="..\:/Users/rahul/PedoFitness-App/PedoFitness/app/src/main/res/layout/myhome.xml" value="0.25" />
+        <entry key="..\:/Users/rahul/PedoFitness-App/PedoFitness/app/src/main/res/layout/myprofile.xml" value="0.25" />
+        <entry key="..\:/Users/rahul/PedoFitness-App/PedoFitness/app/src/main/res/layout/myreport.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/rahul/PedoFitness-App/PedoFitness/app/src/main/res/menu/bottom_menu.xml" value="0.25" />
+        <entry key="..\:/Users/rahul/PedoFitness-App/PedoFitness/app/src/main/res/menu/main_menu.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/rahul/PedoFitness-App/PedoFitness/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2315" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
